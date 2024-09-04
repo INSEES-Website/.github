@@ -1,6 +1,6 @@
 # INSEES - Electronics and Instrumentation Engineering Branch Society, NIT Silchar
 
-Welcome to the official GitHub repository of INSEES (Instrumentation and Electronics Engineering Society) at the National Institute of Technology Silchar. This repository hosts the official website and resources for the Electronics and Instrumentation Engineering Branch Society.
+### Welcome to the official GitHub repository of INSEES (Instrumentation and Electronics Engineering Society) at the National Institute of Technology Silchar. This repository hosts the official website and resources for the Electronics and Instrumentation Engineering Branch Society.
 
 ## About INSEES
 
